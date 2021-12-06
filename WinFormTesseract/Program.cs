@@ -17,7 +17,7 @@ namespace WinFormTesseract
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
-            // edit for test pull request //
+            // edit for test pull request, edit again //
         }
     }
 }
